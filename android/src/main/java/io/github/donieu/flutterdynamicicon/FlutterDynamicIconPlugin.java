@@ -1,4 +1,4 @@
-package io.github.tastelessjolt.flutterdynamicicon;
+package io.github.donieu.flutterdynamicicon;
 
 import android.content.Context;
 import io.flutter.embedding.engine.plugins.FlutterPlugin;

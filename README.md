@@ -27,7 +27,7 @@ To integrate your plugin into the iOS part of your app, follow these steps
 
 Here is my directory structure:
 
-![directory_structure](https://raw.githubusercontent.com/tastelessjolt/flutter_dynamic_icon/master/imgs/directory_structure.png)
+![directory_structure](https://raw.githubusercontent.com/donieu/flutter_dynamic_icon/master/imgs/directory_structure.png)
 
 3. Next, we need to setup the `Info.plist`
     1. Add `Icon files (iOS 5)` to the Information Property List
@@ -42,7 +42,7 @@ Note that if you need it work for iPads, You need to add these icon declarations
 Here is my `Info.plist` after adding Alternate Icons
 #### Screenshot
 
-![info.plist](https://raw.githubusercontent.com/tastelessjolt/flutter_dynamic_icon/master/imgs/info-plist.png)
+![info.plist](https://raw.githubusercontent.com/donieu/flutter_dynamic_icon/master/imgs/info-plist.png)
 
 #### Raw
 ```xml
@@ -171,10 +171,10 @@ Check out the `example` app for more details
 ## Screenrecord
 
 ## Showing App Icon change
-![Screenrecording of the example](https://raw.githubusercontent.com/tastelessjolt/flutter_dynamic_icon/master/imgs/screen.gif)
+![Screenrecording of the example](https://raw.githubusercontent.com/donieu/flutter_dynamic_icon/master/imgs/screen.gif)
 
 ## Showing Batch number on app icon change in SpringBoard
-![Screenrecording of the example](https://raw.githubusercontent.com/tastelessjolt/flutter_dynamic_icon/master/imgs/batch.gif)
+![Screenrecording of the example](https://raw.githubusercontent.com/donieu/flutter_dynamic_icon/master/imgs/batch.gif)
 
 ## Reference 
 

@@ -1,4 +1,4 @@
-package io.github.tastelessjolt.flutterdynamicicon;
+package io.github.donieu.flutterdynamicicon;
 
 import io.flutter.plugin.common.MethodCall;
 import io.flutter.plugin.common.MethodChannel;

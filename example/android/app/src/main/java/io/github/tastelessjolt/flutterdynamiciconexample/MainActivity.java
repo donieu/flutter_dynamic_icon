@@ -1,4 +1,4 @@
-package io.github.tastelessjolt.flutterdynamiciconexample;
+package io.github.donieu.flutterdynamiciconexample;
 
 import io.flutter.embedding.android.FlutterActivity;
 
