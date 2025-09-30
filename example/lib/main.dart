@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
 import 'package:flutter_dynamic_icon/flutter_dynamic_icon.dart';
 
 void main() => runApp(MaterialApp(home: MyApp()));
@@ -53,7 +52,7 @@ class _MyAppState extends State<MyApp> {
               child: Text(
                 "Current batch number: $batchIconNumber",
                 textAlign: TextAlign.center,
-                style: Theme.of(context).textTheme.headline4,
+                style: Theme.of(context).textTheme.bodyMedium,
               ),
             ),
             TextField(
@@ -127,7 +126,7 @@ class _MyAppState extends State<MyApp> {
               child: Text(
                 "Current Icon Name: $currentIconName",
                 textAlign: TextAlign.center,
-                style: Theme.of(context).textTheme.headline4,
+                style: Theme.of(context).textTheme.bodyMedium,
               ),
             ),
             SwitchListTile(
